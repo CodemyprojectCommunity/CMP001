@@ -10,7 +10,7 @@
  2. Django2.0 or above
  
 #### Run on your local machine by:
-* `git clone https://github.com/gaurav0219/Automatic-Timetable-Generator-Using-Genetic-Algorithm.git`
+* `git clone https://github.com/CodemyprojectCommunity/CMP001.git`
 * `cd M1`
 * `python manage.py runserver`
 * then go to port `http://127.0.0.1:8000/timetable_generation/` to run the local server
